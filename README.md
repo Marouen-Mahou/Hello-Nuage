@@ -101,6 +101,18 @@ To verify the self-healing capabilities of our deployment, we will first ensure 
 
 ![Self Healing Kubernetes](https://github.com/user-attachments/assets/58053afb-2a31-4d1b-a222-d0513d79ae61)
 
+## Pipeline CI/CD
+
+To automate the deployment process, we created a CI/CD pipeline that tests and builds the Docker image, then pushes it to Docker Hub for seamless access and deployment. This automation ensures consistent and reliable delivery, streamlining our workflow and making the image available for further use.
+
+![image](https://github.com/user-attachments/assets/f445aecc-d2d4-448f-89ca-ae741c3faa55)
+![image](https://github.com/user-attachments/assets/35dd86c8-f8e7-4e5a-b826-6a45eb6a3cff)
+
+
+
+
+
+
 
 
 
